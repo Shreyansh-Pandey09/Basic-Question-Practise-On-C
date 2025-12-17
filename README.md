@@ -1,36 +1,30 @@
-# Basic-Question-Practise-On-C
-# C Programming – Basic Practice Questions
+# C Programming Practice Repository
 
-This repository contains **basic C programming questions** solved for practice and concept clarity.  
-It is mainly created for **beginners** who are learning C programming step by step.
+This repository is created to maintain regular practice of C programming.
+All programs are written with a focus on clarity, simplicity, and consistency.
 
----
-
-## 📂 Contents
-The repository includes programs such as:
-- Area and Circumference calculation
-- ASCII value of a character
-- Name abbreviation program
-- Other basic logic-building questions
+The aim is to improve problem-solving skills and build strong fundamentals
+through daily coding practice.
 
 ---
 
-## 🎯 Purpose
-- To strengthen **C language fundamentals**
-- To practice **input/output, variables, strings, and logic**
-- To build a habit of **daily coding and GitHub usage**
+## 📌 What This Repository Is About
+- Simple and clean C programs
+- Focus on logic building
+- Beginner-friendly code
+- Regular uploads for consistency
 
 ---
 
-## 🛠 Language Used
-- C Programming Language
+## 🛠 Tools & Language
+- Programming Language: C
 - Compiler: GCC
+- Editor: Visual Studio Code
 
 ---
 
-## ▶ How to Run
-1. Open terminal
+## ▶ How to Use
+1. Open terminal in the project folder
 2. Compile the program:
    ```bash
    gcc filename.c -o output
-
